@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
+    <block type="Text" BlockNumber="1" rowStart="67" rowEnd="906" colStart="74" colEnd="1335">
+        <line LineNumber="1" rowStart="77" rowEnd="101" colStart="74" colEnd="1335">
+            <word unicode="೪೩" WordNumber="1" doubtfulRecognition="false" rowStart="77" rowEnd="101" colStart="674" colEnd="723"/>
+        </line>
+        <line LineNumber="2" rowStart="134" rowEnd="191" colStart="74" colEnd="1335">
+            <word unicode="ಓಂ" WordNumber="1" colStart="84" colEnd="0"/>
+            <word unicode="ಯೋಗವಿತ್‌ಸ್ರಷ್ಟ್ರೇ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬ್ರಾಹ್ಮಣಾಯ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="7" colStart="0" colEnd="1017"/>
+        </line>
+        <line LineNumber="3" rowStart="202" rowEnd="261" colStart="74" colEnd="1335">
+            <word unicode="ಭಾಹ್ಮಣಪ್ರಿಯಾಯ" WordNumber="1" doubtfulRecognition="true" rowStart="202" rowEnd="261" colStart="179" colEnd="520"/>
+            <word unicode="ನಮಃ" WordNumber="2" doubtfulRecognition="false" rowStart="202" rowEnd="261" colStart="535" colEnd="626"/>
+            <word unicode="।" WordNumber="3" doubtfulRecognition="false" rowStart="202" rowEnd="261" colStart="643" colEnd="650"/>
+            <word unicode="ವೇದಪ್ರಿಯಾಯ" WordNumber="4" doubtfulRecognition="false" rowStart="202" rowEnd="261" colStart="667" colEnd="934"/>
+            <word unicode="ದೇವನಾಥಾಯ" WordNumber="5" doubtfulRecognition="true" rowStart="202" rowEnd="261" colStart="949" colEnd="1194"/>
+            <word unicode="ನಮಃ" WordNumber="6" doubtfulRecognition="true" rowStart="202" rowEnd="261" colStart="1208" colEnd="1300"/>
+            <word unicode="।" WordNumber="7" doubtfulRecognition="false" rowStart="202" rowEnd="261" colStart="1317" colEnd="1323"/>
+        </line>
+        <line LineNumber="4" rowStart="272" rowEnd="330" colStart="74" colEnd="1335">
+            <word unicode="ದೈವಜ್ಞಾಯ" WordNumber="1" doubtfulRecognition="true" rowStart="272" rowEnd="330" colStart="179" colEnd="372"/>
+            <word unicode="ನಮಃ" WordNumber="2" doubtfulRecognition="false" rowStart="272" rowEnd="330" colStart="390" colEnd="482"/>
+            <word unicode="।" WordNumber="3" doubtfulRecognition="false" rowStart="272" rowEnd="330" colStart="502" colEnd="509"/>
+            <word unicode="ದೆವಚಿಂತಕಾಯ" WordNumber="4" doubtfulRecognition="true" rowStart="272" rowEnd="330" colStart="529" colEnd="793"/>
+            <word unicode="ಜಾಃ" WordNumber="5" doubtfulRecognition="false" rowStart="272" rowEnd="330" colStart="811" colEnd="903"/>
+            <word unicode="।" WordNumber="6" doubtfulRecognition="false" rowStart="272" rowEnd="330" colStart="923" colEnd="930"/>
+        </line>
+        <line LineNumber="5" rowStart="341" rowEnd="397" colStart="74" colEnd="1335">
+            <word unicode="ವಿಷಮಾಕ್ಷಾಯ" WordNumber="1" colStart="179" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಲೋಮಾಕ್ಷಾಯ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="6" colStart="0" colEnd="1005"/>
+        </line>
+        <line LineNumber="6" rowStart="410" rowEnd="452" colStart="74" colEnd="1335">
+            <word unicode="ವಿಷಾದಾಯ" WordNumber="1" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="178" colEnd="376"/>
+            <word unicode="ನಮಃ" WordNumber="2" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="392" colEnd="484"/>
+            <word unicode="।" WordNumber="3" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="503" colEnd="511"/>
+            <word unicode="ವಿಷಮರ್ದನಾಯ" WordNumber="4" doubtfulRecognition="true" rowStart="410" rowEnd="452" colStart="528" colEnd="817"/>
+            <word unicode="ನಮಃ" WordNumber="5" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="834" colEnd="926"/>
+            <word unicode="।" WordNumber="6" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="945" colEnd="951"/>
+            <word unicode="।।" WordNumber="7" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="1132" colEnd="1150"/>
+            <word unicode="೮೭೦" WordNumber="8" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="1168" colEnd="1256"/>
+            <word unicode="।।" WordNumber="9" doubtfulRecognition="false" rowStart="410" rowEnd="452" colStart="1280" colEnd="1298"/>
+        </line>
+        <line LineNumber="7" rowStart="547" rowEnd="589" colStart="74" colEnd="1335">
+            <word unicode="ನಿರ್ಮಮಾಯ" WordNumber="1" doubtfulRecognition="false" rowStart="547" rowEnd="589" colStart="179" colEnd="415"/>
+            <word unicode="ನಮಃ" WordNumber="2" doubtfulRecognition="false" rowStart="547" rowEnd="589" colStart="432" colEnd="524"/>
+            <word unicode="।" WordNumber="3" doubtfulRecognition="false" rowStart="547" rowEnd="589" colStart="544" colEnd="551"/>
+            <word unicode="ನಿರಹಂಕಾರಾಯ" WordNumber="4" doubtfulRecognition="true" rowStart="547" rowEnd="589" colStart="569" colEnd="833"/>
+            <word unicode="ನಮಃ" WordNumber="5" doubtfulRecognition="false" rowStart="547" rowEnd="589" colStart="849" colEnd="942"/>
+            <word unicode="।" WordNumber="6" doubtfulRecognition="false" rowStart="547" rowEnd="589" colStart="961" colEnd="968"/>
+        </line>
+        <line LineNumber="8" rowStart="615" rowEnd="673" colStart="74" colEnd="1335">
+            <word unicode="ನಿರ್ಮೋಹಾಯ" WordNumber="1" colStart="179" colEnd="0"/>
+            <word unicode="ನಿರುಪದ್ರವಾಯ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ದಪಘ್ನೇ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="7" colStart="0" colEnd="1171"/>
+        </line>
+        <line LineNumber="9" rowStart="686" rowEnd="742" colStart="74" colEnd="1335">
+            <word unicode="ದರ್ಪದಾಯ" WordNumber="1" colStart="179" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ದೃಪ್ತಾಯ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="6" colStart="0" colEnd="844"/>
+        </line>
+        <line LineNumber="10" rowStart="754" rowEnd="810" colStart="74" colEnd="1335">
+            <word unicode="ಸರ್ವರ್ತುಪರಿವರ್ತಕಾಯ" WordNumber="1" colStart="179" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="i" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸಪ್ತಜಿಹ್ವಾಯ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="6" colStart="0" colEnd="1114"/>
+        </line>
+        <line LineNumber="11" rowStart="823" rowEnd="883" colStart="74" colEnd="1335">
+            <word unicode="ಸಹಸ್ರಾರರ್ಚಿಷೇ" WordNumber="1" colStart="180" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ನಿಗ್ಧಪ್ರಕೃತಿದಕ್ಷಿಣಾಯ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಃ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="೮೮೦" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="9" colStart="0" colEnd="1299"/>
+        </line>
+    </block>
+</page>
