@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
+    <block type="Text" BlockNumber="1" rowStart="18" rowEnd="76" colStart="557" colEnd="1418">
+        <line LineNumber="1" rowStart="32" rowEnd="74" colStart="557" colEnd="1418">
+            <word unicode="ವಿಷ್ಣುಸಹಸ್ರನಾಮ" WordNumber="1" colStart="577" colEnd="0"/>
+            <word unicode="218" WordNumber="2" colStart="0" colEnd="1381"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="2" rowStart="106" rowEnd="895" colStart="23" colEnd="1403">
+        <line LineNumber="2" rowStart="119" rowEnd="195" colStart="23" colEnd="1403">
+            <word unicode="ವಾಸುದೇವಾಶ್ರಯೋ" WordNumber="1" colStart="47" colEnd="0"/>
+            <word unicode="ಮರ್ತ್ಯೋ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಾಸುದೇವಪರಾಯಣಃ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="1333"/>
+        </line>
+        <line LineNumber="3" rowStart="192" rowEnd="259" colStart="23" colEnd="1403">
+            <word unicode="ಸರ್ವಪಾಪವಿಶುದ್ಧಾತ್ಮಾ" WordNumber="1" colStart="47" colEnd="0"/>
+            <word unicode="ಯಾತಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಬ್ರಹ್ಮ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸನಾತನಮ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="।।೧೧೭" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="6" colStart="0" colEnd="1366"/>
+        </line>
+        <line LineNumber="4" rowStart="281" rowEnd="350" colStart="23" colEnd="1403">
+            <word unicode="ನ" WordNumber="1" doubtfulRecognition="false" rowStart="281" rowEnd="350" colStart="46" colEnd="74"/>
+            <word unicode="ವಾಸುದೇವಭಕ್ತಾನಾಮಶುಭಂ" WordNumber="2" doubtfulRecognition="false" rowStart="281" rowEnd="350" colStart="113" colEnd="635"/>
+            <word unicode="ವಿದ್ಯತೇ" WordNumber="3" doubtfulRecognition="false" rowStart="281" rowEnd="350" colStart="675" colEnd="810"/>
+            <word unicode="ಕ್ವಚಿತ್" WordNumber="4" doubtfulRecognition="false" rowStart="281" rowEnd="350" colStart="850" colEnd="971"/>
+            <word unicode="।" WordNumber="5" doubtfulRecognition="false" rowStart="281" rowEnd="350" colStart="1010" colEnd="1015"/>
+        </line>
+        <line LineNumber="5" rowStart="352" rowEnd="418" colStart="23" colEnd="1403">
+            <word unicode="ಜನ್ಮಮೃತ್ಯುಜರಾವ್ಯಾಧಿಭಯಂ" WordNumber="1" doubtfulRecognition="false" rowStart="352" rowEnd="418" colStart="45" colEnd="586"/>
+            <word unicode="ನೈವೋಪಜಾಯತೇ" WordNumber="2" doubtfulRecognition="false" rowStart="352" rowEnd="418" colStart="625" colEnd="967"/>
+            <word unicode="।।೧೧೮।।" WordNumber="3" doubtfulRecognition="false" rowStart="352" rowEnd="418" colStart="1240" colEnd="1364"/>
+        </line>
+        <line LineNumber="6" rowStart="441" rowEnd="509" colStart="23" colEnd="1403">
+            <word unicode="ಇಮಂ" WordNumber="1" doubtfulRecognition="false" rowStart="441" rowEnd="509" colStart="44" colEnd="163"/>
+            <word unicode="ಸ್ತವಮಧೀಯಾನಃ" WordNumber="2" doubtfulRecognition="true" rowStart="441" rowEnd="509" colStart="203" colEnd="520"/>
+            <word unicode="ಶ್ರದ್ಧಾಭಕ್ತಿಸಮನ್ವಿತಃ" WordNumber="3" doubtfulRecognition="false" rowStart="441" rowEnd="509" colStart="561" colEnd="905"/>
+            <word unicode="।" WordNumber="4" doubtfulRecognition="false" rowStart="441" rowEnd="509" colStart="944" colEnd="959"/>
+        </line>
+        <line LineNumber="7" rowStart="508" rowEnd="575" colStart="23" colEnd="1403">
+            <word unicode="ಯುಜ್ಯೇತಾತ್ಮಸುಖಕ್ಷಾಂತಿಶ್ರೀಧೃತಿಸ್ಮೃತಿಕೀರ್ತಿಭಿಃ" WordNumber="1" doubtfulRecognition="false" rowStart="508" rowEnd="575" colStart="44" colEnd="917"/>
+            <word unicode="।।೧೧೯।।" WordNumber="2" doubtfulRecognition="false" rowStart="508" rowEnd="575" colStart="1238" colEnd="1363"/>
+        </line>
+        <line LineNumber="8" rowStart="596" rowEnd="657" colStart="23" colEnd="1403">
+            <word unicode="ನಕ್ರೋಧೋ" WordNumber="1" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="43" colEnd="264"/>
+            <word unicode="ನ" WordNumber="2" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="304" colEnd="332"/>
+            <word unicode="ಚ" WordNumber="3" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="371" colEnd="408"/>
+            <word unicode="ಮಾತ್ಸರ್ಯಂ" WordNumber="4" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="447" colEnd="687"/>
+            <word unicode="ನ" WordNumber="5" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="726" colEnd="755"/>
+            <word unicode="ಲೋಭೋ" WordNumber="6" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="794" colEnd="988"/>
+            <word unicode="ನಾಶುಭಾ" WordNumber="7" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="1028" colEnd="1193"/>
+            <word unicode="ಮತಿಃ" WordNumber="8" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="1232" colEnd="1330"/>
+            <word unicode="।" WordNumber="9" doubtfulRecognition="false" rowStart="596" rowEnd="657" colStart="1370" colEnd="1375"/>
+        </line>
+        <line LineNumber="9" rowStart="667" rowEnd="731" colStart="23" colEnd="1403">
+            <word unicode="ಭವಂತಿ" WordNumber="1" doubtfulRecognition="false" rowStart="667" rowEnd="731" colStart="43" colEnd="176"/>
+            <word unicode="ಕೃತಪುಣ್ಯಾನಾಂ" WordNumber="2" doubtfulRecognition="false" rowStart="667" rowEnd="731" colStart="215" colEnd="486"/>
+            <word unicode="ಭಕ್ತಾನಾಂ" WordNumber="3" doubtfulRecognition="false" rowStart="667" rowEnd="731" colStart="527" colEnd="695"/>
+            <word unicode="ಪುರುಷೋತ್ತಮೇ" WordNumber="4" doubtfulRecognition="false" rowStart="667" rowEnd="731" colStart="734" colEnd="1035"/>
+            <word unicode="।।೧೨೦।।" WordNumber="5" doubtfulRecognition="false" rowStart="667" rowEnd="731" colStart="1241" colEnd="1361"/>
+        </line>
+        <line LineNumber="10" rowStart="753" rowEnd="818" colStart="23" colEnd="1403">
+            <word unicode="ದ್ಯೌಃ" WordNumber="1" colStart="42" colEnd="0"/>
+            <word unicode="ಸಚಂದ್ರಾರ್ಕನಕ್ಷತ್ರಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಖಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ದಿಶೋ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಭೂರ್ಮಹೋದಧಿಃ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="6" colStart="0" colEnd="1233"/>
+        </line>
+        <line LineNumber="11" rowStart="823" rowEnd="892" colStart="23" colEnd="1403">
+            <word unicode="ವಾಸುದೇವಸ್ಯ" WordNumber="1" doubtfulRecognition="false" rowStart="823" rowEnd="892" colStart="41" colEnd="291"/>
+            <word unicode="ವೀರ್ಯೇಣ" WordNumber="2" doubtfulRecognition="false" rowStart="823" rowEnd="892" colStart="326" colEnd="538"/>
+            <word unicode="ವಿಧೃತಾನಿ" WordNumber="3" doubtfulRecognition="false" rowStart="823" rowEnd="892" colStart="577" colEnd="751"/>
+            <word unicode="ಮಹಾತ್ಮನಃ" WordNumber="4" doubtfulRecognition="false" rowStart="823" rowEnd="892" colStart="790" colEnd="995"/>
+            <word unicode="।।೧೨೧।।" WordNumber="5" doubtfulRecognition="false" rowStart="823" rowEnd="892" colStart="1237" colEnd="1360"/>
+        </line>
+    </block>
+</page>

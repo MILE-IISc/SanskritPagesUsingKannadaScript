@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
+    <block type="Text" BlockNumber="1" rowStart="48" rowEnd="135" colStart="597" colEnd="1487">
+        <line LineNumber="1" rowStart="89" rowEnd="134" colStart="597" colEnd="1487">
+            <word unicode="ಅಧ್ಯಾಯ" WordNumber="1" colStart="681" colEnd="0"/>
+            <word unicode="-" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="೨" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="25" WordNumber="4" colStart="0" colEnd="876"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="2" rowStart="171" rowEnd="1013" colStart="66" colEnd="1442">
+        <line LineNumber="2" rowStart="178" rowEnd="249" colStart="66" colEnd="1442">
+            <word unicode="ತಮುವಾಚ" WordNumber="1" colStart="93" colEnd="0"/>
+            <word unicode="ಹೃಷೀಕೇಶಃ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಹಸನ್ನಿವ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾರತ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="5" colStart="0" colEnd="1001"/>
+        </line>
+        <line LineNumber="3" rowStart="248" rowEnd="313" colStart="66" colEnd="1442">
+            <word unicode="ಸೇನಯೋರುಭಯೋರ್ಮಧ್ಯೇ" WordNumber="1" colStart="93" colEnd="0"/>
+            <word unicode="ವಿಷೀದಂತಮಿದಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಚಃ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="೧೦" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="6" colStart="0" colEnd="1417"/>
+        </line>
+        <line LineNumber="4" rowStart="353" rowEnd="393" colStart="66" colEnd="1442">
+            <word unicode="ಶ್ರೀಭಗವಾನುವಾಚ" WordNumber="1" colStart="92" colEnd="345"/>
+        </line>
+        <line LineNumber="5" rowStart="426" rowEnd="495" colStart="66" colEnd="1442">
+            <word unicode="ಅಶೋಚ್ಯಾನನ್ವಶೋಚಸ್ತ್ವಂ" WordNumber="1" colStart="93" colEnd="0"/>
+            <word unicode="ಪ್ರಜ್ಞಾವಾದಾಂಶ್ಚ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಷಸೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="1225"/>
+        </line>
+        <line LineNumber="6" rowStart="498" rowEnd="562" colStart="66" colEnd="1442">
+            <word unicode="ಗತಾಸೂನಗತಾಸೂಂಶ್ಚ" WordNumber="1" colStart="93" colEnd="0"/>
+            <word unicode="ನಾನುಶೋಚಂತಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪಂಡಿತಾಃ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="೧೧" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="6" colStart="0" colEnd="1415"/>
+        </line>
+        <line LineNumber="7" rowStart="641" rowEnd="708" colStart="66" colEnd="1442">
+            <word unicode="ನ" WordNumber="1" colStart="92" colEnd="0"/>
+            <word unicode="ತ್ವೇವಾಹಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಜಾತು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಾಸಂ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ತ್ವಂ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ನೇಮೇ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಜನಾಧಿಪಾಃ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="9" colStart="0" colEnd="1292"/>
+        </line>
+        <line LineNumber="8" rowStart="712" rowEnd="783" colStart="66" colEnd="1442">
+            <word unicode="ನ" WordNumber="1" colStart="93" colEnd="0"/>
+            <word unicode="ಚೈವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಭವಿಷ್ಯಾಮಃ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸರ್ವೇ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ವಯಮತಃ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಪರಮ್" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="೧೨" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="10" colStart="0" colEnd="1415"/>
+        </line>
+        <line LineNumber="9" rowStart="857" rowEnd="929" colStart="66" colEnd="1442">
+            <word unicode="ದೇಹಿನೋಽಸ್ಮಿನ್ಯಥಾ" WordNumber="1" doubtfulRecognition="true" rowStart="857" rowEnd="929" colStart="92" colEnd="457"/>
+            <word unicode="ದೇಹೇ" WordNumber="2" doubtfulRecognition="false" rowStart="857" rowEnd="929" colStart="496" colEnd="609"/>
+            <word unicode="ಕೌಮಾರಂ" WordNumber="3" doubtfulRecognition="false" rowStart="857" rowEnd="929" colStart="647" colEnd="826"/>
+            <word unicode="ಯೌವನಂ" WordNumber="4" doubtfulRecognition="false" rowStart="857" rowEnd="929" colStart="862" colEnd="1039"/>
+            <word unicode="ಜರಾ" WordNumber="5" doubtfulRecognition="false" rowStart="857" rowEnd="929" colStart="1077" colEnd="1170"/>
+            <word unicode="।" WordNumber="6" doubtfulRecognition="false" rowStart="857" rowEnd="929" colStart="1206" colEnd="1212"/>
+        </line>
+        <line LineNumber="10" rowStart="929" rowEnd="1012" colStart="66" colEnd="1442">
+            <word unicode="ತಥಾ" WordNumber="1" colStart="92" colEnd="0"/>
+            <word unicode="ದೇಹಾಂತರಪ್ರಾಪ್ತಿರ್ಧೀರಸ್ತತ್ರ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮುಹ್ಯತಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="೧೩।।" WordNumber="6" colStart="0" colEnd="1414"/>
+        </line>
+    </block>
+</page>

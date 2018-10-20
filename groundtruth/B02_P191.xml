@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
+    <block type="Text" BlockNumber="1" rowStart="86" rowEnd="140" colStart="620" colEnd="1439">
+        <line LineNumber="1" rowStart="91" rowEnd="137" colStart="620" colEnd="1439">
+            <word unicode="ವಿಷ್ಣುಸಹಸ್ರನಾಮ" WordNumber="1" colStart="631" colEnd="0"/>
+            <word unicode="191" WordNumber="2" colStart="0" colEnd="1409"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="2" rowStart="168" rowEnd="967" colStart="59" colEnd="1421">
+        <line LineNumber="2" rowStart="177" rowEnd="223" colStart="59" colEnd="1421">
+            <word unicode="।।ಅಥ" WordNumber="1" colStart="626" colEnd="0"/>
+            <word unicode="ಧ್ಯಾನಮ್।।" WordNumber="2" colStart="0" colEnd="871"/>
+        </line>
+        <line LineNumber="3" rowStart="220" rowEnd="331" colStart="59" colEnd="1421">
+            <word unicode="ಕ್ಷೀರೋದನ್ವತ್ಪ್ರದೇಶೇ" WordNumber="1" colStart="78" colEnd="0"/>
+            <word unicode="ಶುಚಿಮಣಿವಿಲಸತ್ಸೆೈಕತೇ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೌಕ್ತಿಕಾನಾಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="1270"/>
+        </line>
+        <line LineNumber="4" rowStart="330" rowEnd="400" colStart="59" colEnd="1421">
+            <word unicode="ಮಾಲಾಕ್ಲಪ್ತಾಸನಸ್ಥ" WordNumber="1" colStart="77" colEnd="0"/>
+            <word unicode="ಸ್ಫಟಿಕಮಣಿನಿಭೈರ್ಮೌಕ್ತಿಕೈರ್ಮಂಡಿತಾಂಗಃ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="3" colStart="0" colEnd="1402"/>
+        </line>
+        <line LineNumber="5" rowStart="419" rowEnd="493" colStart="59" colEnd="1421">
+            <word unicode="ಶುಭ್ರೈರಭ್ರೈರದಭ್ರೈರುಪರಿವಿರಚಿತೈರ್ಮುಕ್ತಪೀಯೂಷವರ್ಷೈಃ" WordNumber="1" colStart="78" colEnd="0"/>
+            <word unicode="।" WordNumber="2" colStart="0" colEnd="1206"/>
+        </line>
+        <line LineNumber="6" rowStart="489" rowEnd="545" colStart="59" colEnd="1421">
+            <word unicode="ಆನಂದೀ" WordNumber="1" colStart="78" colEnd="0"/>
+            <word unicode="ನಃ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪುನೀಯಾದರಿನಳಿನಗದಾಶಂಖಪಾಣಿರ್ಮುಕುಂದಃ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।।" WordNumber="4" colStart="0" colEnd="1403"/>
+        </line>
+        <line LineNumber="7" rowStart="578" rowEnd="645" colStart="59" colEnd="1421">
+            <word unicode="ಭೂಃ" WordNumber="1" doubtfulRecognition="false" rowStart="578" rowEnd="645" colStart="79" colEnd="173"/>
+            <word unicode="ಪಾದೌ" WordNumber="2" doubtfulRecognition="false" rowStart="578" rowEnd="645" colStart="213" colEnd="332"/>
+            <word unicode="ಯಸ್ಯ" WordNumber="3" doubtfulRecognition="false" rowStart="578" rowEnd="645" colStart="370" colEnd="476"/>
+            <word unicode="ನಾಭಿರ್ವಿಯದಸುರನಿಲಶ್ಚಂದ್ರಸೂರ್ಯೌ" WordNumber="4" doubtfulRecognition="true" rowStart="578" rowEnd="645" colStart="512" colEnd="1221"/>
+            <word unicode="ಚ" WordNumber="5" doubtfulRecognition="false" rowStart="578" rowEnd="645" colStart="1260" colEnd="1298"/>
+        </line>
+        <line LineNumber="8" rowStart="646" rowEnd="702" colStart="59" colEnd="1421">
+            <word unicode="ನೇತ್ರೇ" WordNumber="1" doubtfulRecognition="false" rowStart="646" rowEnd="702" colStart="1068" colEnd="1174"/>
+            <word unicode="।" WordNumber="2" doubtfulRecognition="false" rowStart="646" rowEnd="702" colStart="1213" colEnd="1219"/>
+        </line>
+        <line LineNumber="9" rowStart="716" rowEnd="784" colStart="59" colEnd="1421">
+            <word unicode="ಕರ್ಣಾವಾಶಾಶ್ಯಿರೋದ್ಯೌರ್ಮುಖಮಪಿದಹನೋ" WordNumber="1" colStart="79" colEnd="0"/>
+            <word unicode="ಯಸ್ಯ" WordNumber="2" colStart="0" colEnd="1090"/>
+        </line>
+        <line LineNumber="10" rowStart="785" rowEnd="849" colStart="59" colEnd="1421">
+            <word unicode="ವಾಸ್ತೇಯಮಬ್ಧಿಃ" WordNumber="1" colStart="934" colEnd="0"/>
+            <word unicode="।।" WordNumber="2" colStart="0" colEnd="1404"/>
+        </line>
+        <line LineNumber="11" rowStart="861" rowEnd="945" colStart="59" colEnd="1421">
+            <word unicode="ಅಂತಸ್ಥಂ" WordNumber="1" colStart="80" colEnd="0"/>
+            <word unicode="ಯಸ್ಯ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಶ್ವಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸುರನರಖಗಗೋಭೋಗಿಗಂಧರ್ವದೈತ್ಯೈಃ" WordNumber="4" colStart="0" colEnd="1263"/>
+        </line>
+    </block>
+</page>
