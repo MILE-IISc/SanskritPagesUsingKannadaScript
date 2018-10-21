@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
+    <block type="Text" BlockNumber="1" rowStart="28" rowEnd="97" colStart="355" colEnd="577">
+        <line LineNumber="1" rowStart="42" rowEnd="80" colStart="355" colEnd="577">
+            <word unicode="ಸಾಂಖ್ಯಯೋಗಃ" WordNumber="1" doubtfulRecognition="false" rowStart="42" rowEnd="80" colStart="367" colEnd="555"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="2" rowStart="131" rowEnd="1231" colStart="19" colEnd="880">
+        <line LineNumber="2" rowStart="146" rowEnd="205" colStart="19" colEnd="880">
+            <word unicode="ಜಾತಸ್ಯ" WordNumber="1" doubtfulRecognition="true" rowStart="146" rowEnd="205" colStart="101" colEnd="224"/>
+            <word unicode="ಹಿ" WordNumber="2" doubtfulRecognition="false" rowStart="146" rowEnd="205" colStart="274" colEnd="303"/>
+            <word unicode="ಧ್ರುವೋ" WordNumber="3" doubtfulRecognition="false" rowStart="146" rowEnd="205" colStart="354" colEnd="493"/>
+            <word unicode="ಮೃತ್ಯುಃ" WordNumber="4" doubtfulRecognition="true" rowStart="146" rowEnd="205" colStart="544" colEnd="675"/>
+        </line>
+        <line LineNumber="3" rowStart="211" rowEnd="267" colStart="19" colEnd="880">
+            <word unicode="ಧ್ರುವಂ" WordNumber="1" colStart="100" colEnd="0"/>
+            <word unicode="ಜನ್ಮ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೃತಸ್ಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಚ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="5" colStart="0" colEnd="649"/>
+        </line>
+        <line LineNumber="4" rowStart="275" rowEnd="327" colStart="19" colEnd="880">
+            <word unicode="ತಸ್ಮಾದಪರಿಹಾರ್ಯೇಽರ್ಥೇ" WordNumber="1" colStart="100" colEnd="564"/>
+        </line>
+        <line LineNumber="5" rowStart="339" rowEnd="479" colStart="19" colEnd="880">
+            <word unicode="ನ" WordNumber="1" colStart="19" colEnd="0"/>
+            <word unicode="ತ್ವಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಶೋಚಿತುಮರ್ಹಸಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।।೨೭।।" WordNumber="4" colStart="0" colEnd="874"/>
+        </line>
+        <line LineNumber="6" rowStart="526" rowEnd="572" colStart="19" colEnd="880">
+            <word unicode="ಹುಟ್ಪಿದವನು" WordNumber="1" colStart="96" colEnd="0"/>
+            <word unicode="ಸಾಯುವುದು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನಿಜ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸತ್ತವನಿಗೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಜನ್ಮತಪ್ಪದು." WordNumber="5" colStart="0" colEnd="876"/>
+        </line>
+        <line LineNumber="7" rowStart="581" rowEnd="622" colStart="19" colEnd="880">
+            <word unicode="ತಪ್ಪಿಸಲಾರದ" WordNumber="1" colStart="36" colEnd="0"/>
+            <word unicode="ವಿಷಯಕ್ಕೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಚಿಂತಿಸಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಲಾಭವೇನು?" WordNumber="4" colStart="0" colEnd="680"/>
+        </line>
+        <line LineNumber="8" rowStart="755" rowEnd="809" colStart="19" colEnd="880">
+            <word unicode="ಅವ್ಯಕ್ತಾದೀನಿ" WordNumber="1" colStart="93" colEnd="0"/>
+            <word unicode="ಭೂತಾನಿ" WordNumber="2" colStart="0" colEnd="514"/>
+        </line>
+        <line LineNumber="9" rowStart="821" rowEnd="875" colStart="19" colEnd="880">
+            <word unicode="ವ್ಯಕ್ತಮಧ್ಯಾನಿ" WordNumber="1" colStart="92" colEnd="0"/>
+            <word unicode="ಭಾರತ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="3" colStart="0" colEnd="531"/>
+        </line>
+        <line LineNumber="10" rowStart="886" rowEnd="941" colStart="19" colEnd="880">
+            <word unicode="ಅವ್ಯಕ್ತನಿಧನಾನ್ಯೇವ" WordNumber="1" colStart="91" colEnd="415"/>
+        </line>
+        <line LineNumber="11" rowStart="950" rowEnd="1004" colStart="19" colEnd="880">
+            <word unicode="ತತ್ರ" WordNumber="1" colStart="91" colEnd="0"/>
+            <word unicode="ಕಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪರಿದೇವನಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।।೨೮।।" WordNumber="4" colStart="0" colEnd="867"/>
+        </line>
+        <line LineNumber="12" rowStart="1077" rowEnd="1122" colStart="19" colEnd="880">
+            <word unicode="ಹೇ" WordNumber="1" colStart="89" colEnd="0"/>
+            <word unicode="ಭಾರತಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="!" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಈ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಾಣಿಕೋಟಿಗಳು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಹುಟ್ಟುವುದಕ್ಕೆ" WordNumber="6" colStart="0" colEnd="874"/>
+        </line>
+        <line LineNumber="13" rowStart="1131" rowEnd="1177" colStart="19" colEnd="880">
+            <word unicode="ಮೊದಲು" WordNumber="1" colStart="29" colEnd="0"/>
+            <word unicode="ಕಂಡುಬರುವುದಿಲ್ಲ." WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಧ್ಯದಲ್ಲಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕಂಡುಬರುತ್ತವೆ." WordNumber="4" colStart="0" colEnd="869"/>
+        </line>
+        <line LineNumber="14" rowStart="1192" rowEnd="1230" colStart="19" colEnd="880">
+            <word unicode="ಮರಣಾನಂತರವೂ" WordNumber="1" colStart="29" colEnd="0"/>
+            <word unicode="ಕಂಡುಬರುವುದಿಲ್ಲ." WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇದಕ್ಕೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಚಿಂತೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಏಕೆ?" WordNumber="5" colStart="0" colEnd="840"/>
+        </line>
+    </block>
+</page>
