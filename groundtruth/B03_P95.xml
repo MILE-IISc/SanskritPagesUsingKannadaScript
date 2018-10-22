@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
+    <block type="Text" BlockNumber="1" rowStart="58" rowEnd="110" colStart="420" colEnd="621">
+        <line LineNumber="1" rowStart="67" rowEnd="105" colStart="420" colEnd="621">
+            <word unicode="ಜ್ಞಾನಯೋಗಃ" WordNumber="1" colStart="444" colEnd="608"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="2" rowStart="128" rowEnd="1248" colStart="82" colEnd="933">
+        <line LineNumber="2" rowStart="151" rowEnd="205" colStart="82" colEnd="933">
+            <word unicode="ಚಾತುರ್ವರ್ಣ್ಯಂ" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="ಮಯಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸೃಷ್ಟಮ್" WordNumber="3" colStart="0" colEnd="810"/>
+        </line>
+        <line LineNumber="3" rowStart="215" rowEnd="259" colStart="82" colEnd="933">
+            <word unicode="ಗುಣಕರ್ಮವಿಭಾಗಶಃ" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="।" WordNumber="2" colStart="0" colEnd="566"/>
+        </line>
+        <line LineNumber="4" rowStart="280" rowEnd="334" colStart="82" colEnd="933">
+            <word unicode="ತಸ್ಯ" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="ಕರ್ತಾರಮಪಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಮ್" WordNumber="3" colStart="0" colEnd="684"/>
+        </line>
+        <line LineNumber="5" rowStart="345" rowEnd="403" colStart="82" colEnd="933">
+            <word unicode="ವಿದ್ಧ್ಯಕರ್ತಾರಮವ್ಯಯಮ್" WordNumber="1" colStart="149" colEnd="0"/>
+            <word unicode="।।೧೩।।" WordNumber="2" colStart="0" colEnd="912"/>
+        </line>
+        <line LineNumber="6" rowStart="470" rowEnd="512" colStart="82" colEnd="933">
+            <word unicode="ಗುಣಗಳ" WordNumber="1" doubtfulRecognition="false" rowStart="470" rowEnd="512" colStart="147" colEnd="263"/>
+            <word unicode="-" WordNumber="2" doubtfulRecognition="false" rowStart="470" rowEnd="512" colStart="302" colEnd="314"/>
+            <word unicode="ಕರ್ಮಗಳ" WordNumber="3" doubtfulRecognition="false" rowStart="470" rowEnd="512" colStart="352" colEnd="488"/>
+            <word unicode="ಭೇದಕ್ಕನುಸಾರವಾಗಿ" WordNumber="4" doubtfulRecognition="false" rowStart="470" rowEnd="512" colStart="526" colEnd="800"/>
+            <word unicode="ನಾಲ್ಕು" WordNumber="5" doubtfulRecognition="false" rowStart="470" rowEnd="512" colStart="838" colEnd="926"/>
+        </line>
+        <line LineNumber="7" rowStart="525" rowEnd="568" colStart="82" colEnd="933">
+            <word unicode="ವರ್ಣಗಳನ್ನು" WordNumber="1" colStart="88" colEnd="0"/>
+            <word unicode="ನಾನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸೃಷ್ಟಿಸಿರುತ್ತೇನೆ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅವುಗಳಿಗೆ" WordNumber="4" colStart="0" colEnd="921"/>
+        </line>
+        <line LineNumber="8" rowStart="585" rowEnd="628" colStart="82" colEnd="933">
+            <word unicode="ಕರ್ತನಾಗಿದ್ದರೂ" WordNumber="1" doubtfulRecognition="false" rowStart="585" rowEnd="628" colStart="88" colEnd="292"/>
+            <word unicode="ನಾನು" WordNumber="2" doubtfulRecognition="false" rowStart="585" rowEnd="628" colStart="320" colEnd="393"/>
+            <word unicode="ಅಕರ್ತನು." WordNumber="3" doubtfulRecognition="false" rowStart="585" rowEnd="628" colStart="421" colEnd="558"/>
+            <word unicode="ಅವಿಕಾರಿ." WordNumber="4" doubtfulRecognition="false" rowStart="585" rowEnd="628" colStart="585" colEnd="709"/>
+        </line>
+        <line LineNumber="9" rowStart="693" rowEnd="800" colStart="82" colEnd="933">
+            <word unicode="ನ" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="ಮಾಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕರ್ಮಾಣಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಲಿಂಪಂತಿ" WordNumber="4" colStart="0" colEnd="745"/>
+        </line>
+        <line LineNumber="10" rowStart="828" rowEnd="883" colStart="82" colEnd="933">
+            <word unicode="ನ" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="ಮೇ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕರ್ಮಫಲೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ಪೃಹಾ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="5" colStart="0" colEnd="753"/>
+        </line>
+        <line LineNumber="11" rowStart="893" rowEnd="938" colStart="82" colEnd="933">
+            <word unicode="ಇತಿ" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="ಮಾಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಯೋಽಭಿಜಾನಾತಿ" WordNumber="3" colStart="0" colEnd="704"/>
+        </line>
+        <line LineNumber="12" rowStart="958" rowEnd="1014" colStart="82" colEnd="933">
+            <word unicode="ಕರ್ಮಭಿರ್ನ" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="ಸ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಬಧ್ಯತೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।೧೪।।" WordNumber="4" colStart="0" colEnd="910"/>
+        </line>
+        <line LineNumber="13" rowStart="1053" rowEnd="1125" colStart="82" colEnd="933">
+            <word unicode="ಕರ್ಮಗಳು" WordNumber="1" doubtfulRecognition="false" rowStart="1053" rowEnd="1125" colStart="146" colEnd="286"/>
+            <word unicode="ನನ್ನನ್ನು" WordNumber="2" doubtfulRecognition="false" rowStart="1053" rowEnd="1125" colStart="314" colEnd="403"/>
+            <word unicode="ಅಂಟಲಾರವು" WordNumber="3" doubtfulRecognition="false" rowStart="1053" rowEnd="1125" colStart="429" colEnd="603"/>
+            <word unicode="ನನಗೆ" WordNumber="4" doubtfulRecognition="false" rowStart="1053" rowEnd="1125" colStart="633" colEnd="700"/>
+            <word unicode="ಕರ್ಮಫಲದಲ್ಲಿ" WordNumber="5" doubtfulRecognition="false" rowStart="1053" rowEnd="1125" colStart="728" colEnd="927"/>
+        </line>
+        <line LineNumber="14" rowStart="1138" rowEnd="1182" colStart="82" colEnd="933">
+            <word unicode="ಆಸಕ್ತಿಯಿಲ್ಲ." WordNumber="1" doubtfulRecognition="false" rowStart="1138" rowEnd="1182" colStart="88" colEnd="246"/>
+            <word unicode="ಈ" WordNumber="2" doubtfulRecognition="false" rowStart="1138" rowEnd="1182" colStart="282" colEnd="317"/>
+            <word unicode="ವಿಧವಾಗಿ" WordNumber="3" doubtfulRecognition="false" rowStart="1138" rowEnd="1182" colStart="353" colEnd="477"/>
+            <word unicode="ನನ್ನನ್ನು" WordNumber="4" doubtfulRecognition="false" rowStart="1138" rowEnd="1182" colStart="513" colEnd="606"/>
+            <word unicode="ತಿಳಿದವನು" WordNumber="5" doubtfulRecognition="false" rowStart="1138" rowEnd="1182" colStart="638" colEnd="779"/>
+            <word unicode="ಕರ್ಮಕ್ಕೆ" WordNumber="6" doubtfulRecognition="false" rowStart="1138" rowEnd="1182" colStart="814" colEnd="924"/>
+        </line>
+        <line LineNumber="15" rowStart="1200" rowEnd="1247" colStart="82" colEnd="933">
+            <word unicode="ಬದ್ಧನಾಗನು." WordNumber="1" doubtfulRecognition="false" rowStart="1200" rowEnd="1247" colStart="82" colEnd="251"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="3" rowStart="1260" rowEnd="1314" colStart="496" colEnd="544">
+        <line LineNumber="16" rowStart="1265" rowEnd="1295" colStart="496" colEnd="544">
+            <word unicode="95" WordNumber="1" doubtfulRecognition="true" rowStart="1265" rowEnd="1295" colStart="500" colEnd="541"/>
+        </line>
+    </block>
+</page>
