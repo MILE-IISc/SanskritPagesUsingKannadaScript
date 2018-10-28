@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
-    <block type="Text" BlockNumber="1" rowStart="0" rowEnd="1005" colStart="0" colEnd="1469">
+    <block type="Text" BlockNumber="1" rowStart="36" rowEnd="103" colStart="616" colEnd="1417">
         <line LineNumber="1" rowStart="58" rowEnd="104" colStart="0" colEnd="1469">
             <word unicode="ಅಧ್ಯಾಯ" WordNumber="1" colStart="633" colEnd="0"/>
             <word unicode="-" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="೩" WordNumber="3" colStart="0" colEnd="0"/>
             <word unicode="43" WordNumber="4" colStart="0" colEnd="1393"/>
         </line>
+    </block>
+    <block type="Text" BlockNumber="2" rowStart="134" rowEnd="984" colStart="21" colEnd="1400">
         <line LineNumber="2" rowStart="142" rowEnd="200" colStart="0" colEnd="1469">
             <word unicode="ಏವಂ" WordNumber="1" colStart="55" colEnd="0"/>
             <word unicode="ಪ್ರವರ್ತಿತಂ" WordNumber="2" colStart="0" colEnd="0"/>
